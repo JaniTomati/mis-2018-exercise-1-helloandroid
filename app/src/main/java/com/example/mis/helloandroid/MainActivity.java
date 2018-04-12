@@ -1,3 +1,6 @@
+// Jonas Dorsch 115763
+// Jana Puschmann 115753
+
 package com.example.mis.helloandroid;
 
 import android.graphics.Bitmap;

@@ -1,0 +1,149 @@
+DROID INFO BERICHT
+
+
+GERÄT
+Modell: E6653 (E6653)
+Hersteller: Sony
+Baseband-Version: 8994-FAAAANAZQ-00065-37
+RIL-Version: Qualcomm RIL 1.0
+Build-Nummer: 32.4.A.1.54
+Build-Fingerprint: Sony/E6653/E6653:7.1.1/32.4.A.1.54/3761073091:user/release-keys
+Bootloader: s1
+Java VM: ART 2.1.0
+OS-Version: N MR1 (7.1.1)
+SDK: 25
+
+DISPLAY
+Auflösung: Full HD, 1080x1920 pixels
+Softwaredichte: 480 dpi (xxhdpi)
+Erneuerungsrate: 60 Hz
+
+PROZESSOR
+CPU-Architektur: AArch64 Processor rev 2 (aarch64)
+Board: msm8994
+Chipsatz: Qualcomm Technologies, Inc MSM8994
+Kerne: 8
+Taktungsgeschwindigkeit: 1555 MHz - 1958 MHz
+Anleitungssets: arm64-v8a
+CPU-Features: fp asimd evtstrm aes pmull sha1 sha2 crc32
+CPU-Regulator: interactive
+Kernel-Version: 3.10.84-perf-g99119bc
+Kernel-Architektur: aarch64
+
+GRAFIKEN
+Renderer: Adreno (TM) 430
+Verkäufer: Qualcomm
+OpenGL-Version: OpenGL ES 3.2
+
+RAM
+Gesamt: 2797 MB
+Java Heap: 192 MB
+
+SPEICHER
+Intern: 22,6 GB
+Extern: 29,3 GB
+
+PRIMÄR KAMERA
+Auflösung: 8,3 MP
+Blitz: Ja
+Video Auflösung: 4K UHD, 3840x2160
+Unterstützte Auflösungen:
+    Bild:
+    3840x2160
+    2048x1536
+    1920x1080
+    1280x720
+    720x480
+    640x480
+    352x288
+    320x240
+    176x144
+
+    Video:
+    3840x2160 (4K UHD)
+    2048x1536
+    1920x1080 (Full HD)
+    1280x720 (HD)
+    720x480
+    640x480 (VGA)
+    352x288
+    320x240
+    176x144
+
+SEKUNDÄR KAMERA
+Auflösung: 5 MP
+Video Auflösung: 2592x1944
+Unterstützte Auflösungen:
+    Bild:
+    2592x1944
+    2592x1458
+    1920x1080
+    1280x720
+    720x480
+    640x480
+    352x288
+    320x240
+    176x144
+
+    Video:
+    2592x1944
+    2592x1458
+    1920x1080 (Full HD)
+    1280x720 (HD)
+    720x480
+    640x480 (VGA)
+    352x288
+    320x240
+    176x144
+
+FEATURES
+Bluetooth: Ja
+Bluetooth LE: Ja
+GPS: Ja
+NFC: Ja
+USB Zubehörteil: Ja
+WiFi: Ja
+WiFi Direct: Ja
+
+AKKU
+Technologie: Li-ion
+Gesundheit: Gut
+
+SENSOREN
+Invensense Accelerometer
+Invensense Magnetometer
+Invensense Magnetometer Uncalibrated
+Invensense Gyroscope
+Invensense Gyroscope Uncalibrated
+APDS-9910 Proximity
+APDS-9910 Light
+HSPPAD038 Pressure
+Invensense Accelerometer -Wakeup Secondary
+Invensense Magnetometer -Wakeup Secondary
+Invensense Magnetometer Uncalibrated -Wakeup Secondary
+Invensense Gyroscope -Wakeup Secondary
+Invensense Gyroscope Uncalibrated -Wakeup Secondary
+APDS-9910 Proximity -Non Wakeup Secondary
+APDS-9910 Light -Wakeup Secondary
+HSPPAD038 Pressure -Wakeup Secondary
+Gravity
+Linear Acceleration
+Rotation Vector
+GeoMagnetic Rotation Vector
+Orientation
+Tilt Detector
+Gravity -Wakeup Secondary
+Linear Acceleration -Wakeup Secondary
+Rotation Vector -Wakeup Secondary
+GeoMagnetic Rotation Vector -Wakeup Secondary
+Orientation -Wakeup Secondary
+Invensense Step Detector
+Invensense Step Counter
+Invensense Significant Motion Detector
+Invensense Game Rotation Vector
+Invensense Step Detector -Wakeup Secondary
+Invensense Step Counter -Wakeup Secondary
+Invensense Game Rotation Vector -Wakeup Secondary
+
+
+Erstellt von Droid Info
